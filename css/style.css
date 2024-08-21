@@ -1,0 +1,33 @@
+.staff {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.contact-list-img {
+	padding-top: 0px;
+	padding-right: 7px !important;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	float: left;
+}
+.contact-name {
+}
+.img-circle {
+	border-radius:50%;
+}
+.img-rounded {
+	border-radius:20px;
+}
+.img-polaroid {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
